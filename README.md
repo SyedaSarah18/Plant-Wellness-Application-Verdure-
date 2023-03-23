@@ -1,16 +1,8 @@
-# brew_crew
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/54178904/227331238-2706cc42-5466-4416-880d-78e385531b35.mp4
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/54178904/227331594-b2167920-fa2c-4d3d-a9f4-8ebbb6a39e9a.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
