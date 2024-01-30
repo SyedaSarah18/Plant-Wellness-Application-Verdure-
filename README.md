@@ -1,6 +1,7 @@
 Designed an ML algorithm in Python detecting 80,000+ plant diseases.
 Built an AR interface using C#, elevating user engagement by 20%.
 
+
 https://user-images.githubusercontent.com/54178904/227331238-2706cc42-5466-4416-880d-78e385531b35.mp4
 
 
