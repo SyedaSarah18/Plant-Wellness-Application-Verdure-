@@ -1,4 +1,4 @@
-An environment centric project designed to assist predicting plant diseases early on. This application with extensive use in the agriculture industry, anDesigned an ML algorithm in Python detecting 80,000+ plant diseases.
+An environment centric project designed to assist predicting plant diseases early on. This application provides extensive use in the agriculture industry. Also includes an AR interface to help find the best fit plant for an individuals home. Designed an ML algorithm in Python detecting 80,000+ plant diseases.
 Built an Augmented Reality interface using C#, elevating user engagement by 20%.
 
 
