@@ -1,4 +1,4 @@
-Designed an ML algorithm in Python detecting 80,000+ plant diseases.
+An environment centric project designed to Designed an ML algorithm in Python detecting 80,000+ plant diseases.
 Built an Augmented Reality interface using C#, elevating user engagement by 20%.
 
 
