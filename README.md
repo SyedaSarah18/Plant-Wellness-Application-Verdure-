@@ -3,6 +3,8 @@ For this application I sesigned an ML algorithm in Python detecting 80,000+ plan
 I also built an Augmented Reality interface using C#, elevating user engagement by 20%.
 
 https://user-images.githubusercontent.com/54178904/223808469-4a342ccc-3d52-475f-959f-b7e84baef084.mp4
+
+
 https://user-images.githubusercontent.com/54178904/227331238-2706cc42-5466-4416-880d-78e385531b35.mp4
 
 
