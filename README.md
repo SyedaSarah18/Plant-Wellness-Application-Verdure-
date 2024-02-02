@@ -1,6 +1,7 @@
 An environment centric project designed to assist predicting plant diseases early on. This application has extensive use in the agriculture industry. Also includes an AR interface to help find the best fit plant for an individuals home. 
 For this application I sesigned an ML algorithm in Python detecting 80,000+ plant diseases.
 I also built an Augmented Reality interface using C#, elevating user engagement by 20%.
+In an actual setting the light in the following video would be replaced by an actual plant to which the senors would be connected. 
 
 https://user-images.githubusercontent.com/54178904/223808469-4a342ccc-3d52-475f-959f-b7e84baef084.mp4
 
